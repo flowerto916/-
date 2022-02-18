@@ -1,3 +1,10 @@
+<style>
+  .xiao {
+    color: blue;
+  }
+</style>
+
+
 <div align="center">
     <h1> Freecodecamp</h1>
     <p>🚀 编程上网 从娃娃抓起</p>
@@ -6,8 +13,8 @@
 
 
 ## 响应式网页设计 🧙‍♂️
-#基础 HTML 和 HTML5
-<ol>
+
+<ol class="xiao">
   <li>基础 HTML 和 HTML5</li> 
   <li>基础 CSS</li>
   <li>应用视觉设计</li>
